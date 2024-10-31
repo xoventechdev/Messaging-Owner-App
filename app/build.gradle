@@ -3,11 +3,11 @@ apply plugin: 'com.google.gms.google-services'
 
 
 android {
-    namespace 'xyz.xoventechdev.appforown'
+    namespace 'xyz.xoventechdev.monir.appforown'
     compileSdk 34
 
     defaultConfig {
-        applicationId "xyz.xoventechdev.appforown"
+        applicationId "xyz.xoventechdev.monir.appforown"
         minSdk 24
         targetSdk 34
         versionCode 1

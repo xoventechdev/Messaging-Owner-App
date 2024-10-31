@@ -1,4 +1,4 @@
-package xyz.xoventechdev.appforown;
+package xyz.xoventechdev.monir.appforown;
 
 import org.junit.Test;
 

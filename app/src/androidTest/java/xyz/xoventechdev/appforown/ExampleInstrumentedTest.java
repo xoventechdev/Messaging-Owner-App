@@ -1,4 +1,4 @@
-package xyz.xoventechdev.appforown;
+package xyz.xoventechdev.monir.appforown;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("xyz.xoventechdev.appforown", appContext.getPackageName());
+        assertEquals("xyz.xoventechdev.monir.appforown", appContext.getPackageName());
     }
 }
