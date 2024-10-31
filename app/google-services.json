@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "585732854033",
+    "firebase_url": "https://formonirmessage-default-rtdb.firebaseio.com",
+    "project_id": "formonirmessage",
+    "storage_bucket": "formonirmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585732854033:android:83c3170f33d597bda53cb0",
+        "android_client_info": {
+          "package_name": "xyz.xoventechdev.monir.appforhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdIuSm5qovDKOWkr0a9570Z9VDUomGXZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585732854033:android:cf47e16e2827fd39a53cb0",
+        "android_client_info": {
+          "package_name": "xyz.xoventechdev.monir.appforown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdIuSm5qovDKOWkr0a9570Z9VDUomGXZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
